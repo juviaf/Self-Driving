@@ -1,6 +1,6 @@
 # Self-Driving
 Self-Driving of Uda
-1. Lane Detection
+1. Computer Vision fundmental
    lane1 & lane2
    numpy
    matplotlib
